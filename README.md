@@ -8,15 +8,16 @@ I'm just starting to learn Rust. This is where I:
 - Document my mistakes so I don't repeat them
 - Track my progress day by day
 
-## Project Structure
+## Project Structur
+variables/    => Variables, mutability, shadowing
 
-rust-journey/
-├── variables/       # Variables, mutability, shadowing
-├── basics/          # Basic concepts
-├── exercises/       # Small projects
-├── playground/      # Testing area and temporary code
-├── todo.md          # Things I need to do
-└── README.md        # This file
+basics/     =>      Basic concepts
+
+exercises/     =>      Small projects
+
+playground/   =>   Things I need to do
+
+README.md    =>    This file
 
 ## 🚀 How to Run the Code
 
