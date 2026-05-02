@@ -9,13 +9,13 @@ I'm just starting to learn Rust. This is where I:
 - Track my progress day by day
 
 ## Project Structur
-variables/    => Variables, mutability, shadowing
+variables    => Variables, mutability, shadowing
 
-basics/     =>      Basic concepts
+basics     =>      Basic concepts
 
-exercises/     =>      Small projects
+exercises     =>      Small projects
 
-playground/   =>   Things I need to do
+playground  =>   Things I need to do
 
 README.md    =>    This file
 
