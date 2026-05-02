@@ -2,7 +2,7 @@ use std::io;
 
 fn main() {
 
-    println!("Hello, Mr Alireza Boroujerdian");
+    println!("Hello, Mr Boroujerdian");
 
     println!("Please Enter a number:");
     let mut user_input = String::new();
